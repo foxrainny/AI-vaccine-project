@@ -1,3 +1,4 @@
+import sys, os, shutil
 from PyQt5.QtWidgets import QWidget, QApplication, QTreeView, QFileSystemModel, QVBoxLayout, QPushButton, QInputDialog, QLineEdit
 
 class MyApp(QWidget):
