@@ -1,0 +1,10 @@
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\bin\Debug\K-Shield_AVGUI.exe.config
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\bin\Debug\K-Shield_AVGUI.exe
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\bin\Debug\K-Shield_AVGUI.pdb
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\obj\Debug\K-Shield_AVGUI.csprojAssemblyReference.cache
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\obj\Debug\K_Shield_AVGUI.Properties.Resources.resources
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\obj\Debug\K-Shield_AVGUI.csproj.GenerateResource.cache
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\obj\Debug\K-Shield_AVGUI.csproj.CoreCompileInputs.cache
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\obj\Debug\K-Shield_AVGUI.exe
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\obj\Debug\K-Shield_AVGUI.pdb
+C:\Users\ghdhf\source\repos\K-Shield_AVGUI\K-Shield_AVGUI\obj\Debug\K_Shield_AVGUI.Main_Form.resources
