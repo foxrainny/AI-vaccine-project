@@ -1,0 +1,86 @@
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\KSJr.exe.config
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\KSJr.exe
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\KSJr.pdb
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\IronPython.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\IronPython.Modules.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\IronPython.SQLite.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\IronPython.Wpf.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\MetroFramework.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\MetroFramework.Fonts.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\Microsoft.Dynamic.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\Microsoft.Scripting.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\ShadowPanel.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\IronPython.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\IronPython.Modules.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\IronPython.SQLite.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\IronPython.Wpf.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\Microsoft.Dynamic.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\Microsoft.Scripting.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\ShadowPanel.pdb
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\Design.csprojAssemblyReference.cache
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\KSJr.form_About.resources
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\KSJr.form_Main.resources
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\KSJr.Preloader.resources
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\KSJr.Properties.Resources.resources
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\Design.csproj.GenerateResource.cache
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\Design.csproj.CopyComplete
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\KSJr.exe
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\obj\Debug\KSJr.pdb
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Buffers.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Collections.Immutable.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Memory.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Numerics.Vectors.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Reflection.Metadata.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Buffers.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Collections.Immutable.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Memory.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Numerics.Vectors.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Reflection.Metadata.xml
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\KSJr.exe.config
+C:\project\test (2)\test\test_KS\Design\bin\Debug\KSJr.exe
+C:\project\test (2)\test\test_KS\Design\bin\Debug\KSJr.pdb
+C:\project\test (2)\test\test_KS\Design\bin\Debug\IronPython.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\IronPython.Modules.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\IronPython.SQLite.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\IronPython.Wpf.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\MetroFramework.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\MetroFramework.Fonts.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\Microsoft.Dynamic.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\Microsoft.Scripting.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\ShadowPanel.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Buffers.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Collections.Immutable.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Memory.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Numerics.Vectors.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Reflection.Metadata.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\project\test (2)\test\test_KS\Design\bin\Debug\IronPython.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\IronPython.Modules.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\IronPython.SQLite.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\IronPython.Wpf.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\Microsoft.Dynamic.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\Microsoft.Scripting.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\ShadowPanel.pdb
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Buffers.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Collections.Immutable.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Memory.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Numerics.Vectors.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Reflection.Metadata.xml
+C:\project\test (2)\test\test_KS\Design\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\project\test (2)\test\test_KS\Design\obj\Debug\Design.csprojAssemblyReference.cache
+C:\project\test (2)\test\test_KS\Design\obj\Debug\KSJr.form_About.resources
+C:\project\test (2)\test\test_KS\Design\obj\Debug\KSJr.form_Main.resources
+C:\project\test (2)\test\test_KS\Design\obj\Debug\KSJr.Preloader.resources
+C:\project\test (2)\test\test_KS\Design\obj\Debug\KSJr.Properties.Resources.resources
+C:\project\test (2)\test\test_KS\Design\obj\Debug\Design.csproj.GenerateResource.cache
+C:\project\test (2)\test\test_KS\Design\obj\Debug\Design.csproj.CoreCompileInputs.cache
+C:\project\test (2)\test\test_KS\Design\obj\Debug\Design.csproj.CopyComplete
+C:\project\test (2)\test\test_KS\Design\obj\Debug\KSJr.exe
+C:\project\test (2)\test\test_KS\Design\obj\Debug\KSJr.pdb

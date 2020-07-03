@@ -1,0 +1,14 @@
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\bin\Debug\Design_Test.exe.config
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\bin\Debug\Design_Test.exe
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\bin\Debug\Design_Test.pdb
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\bin\Debug\XanderUI.dll
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\obj\Debug\Design_Test.csprojAssemblyReference.cache
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\obj\Debug\Design_Test.form_Main.resources
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\obj\Debug\Design_Test.Properties.Resources.resources
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\obj\Debug\Design_Test.csproj.GenerateResource.cache
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\obj\Debug\Design_Test.csproj.CoreCompileInputs.cache
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\obj\Debug\Design_Test.csproj.CopyComplete
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\obj\Debug\Design_Test.exe
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\obj\Debug\Design_Test.pdb
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\bin\Debug\ShadowPanel.dll
+C:\Users\ghdhf\source\repos\Design_Test\Design_Test\bin\Debug\ShadowPanel.pdb
