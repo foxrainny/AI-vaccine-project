@@ -1,0 +1,6 @@
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\ShadowPanel\bin\Release\ShadowPanel.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\ShadowPanel\bin\Release\ShadowPanel.pdb
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\ShadowPanel\obj\Release\ShadowPanel.csprojAssemblyReference.cache
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\ShadowPanel\obj\Release\ShadowPanel.csproj.CoreCompileInputs.cache
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\ShadowPanel\obj\Release\ShadowPanel.dll
+D:\work\study_hacking\K-Shield\project\AI-vaccine-project\kernel\test\test_KS\ShadowPanel\obj\Release\ShadowPanel.pdb
